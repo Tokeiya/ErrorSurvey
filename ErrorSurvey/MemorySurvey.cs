@@ -7,7 +7,7 @@ using BenchmarkDotNet.Attributes;
 namespace ErrorSurvey
 {
 
-    public class Survey
+    public class MemorySurvey
     {
 		[Params(100,1000,10000,100000)]
 		public int Size { get; set; }
