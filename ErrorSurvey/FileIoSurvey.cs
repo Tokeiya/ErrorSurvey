@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ErrorSurvey
 {
-    class FileIoSurvey
+    public class FileIoSurvey
     {
+
     }
 }
